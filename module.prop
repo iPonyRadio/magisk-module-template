@@ -1,8 +1,8 @@
-id=template
-name=Template Module
+id=pixelprop
+name=Pixel Prop
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=PixelPerfect
+description=Changes build.prop to represent a Pixel XL for Assistant support
+support=http://not-now
+donate=http://not-now
